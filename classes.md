@@ -32,7 +32,7 @@ Experts roll `1d6` for [HP Progression](/rules#hp-progression).
 
 ### Class Ability: Masterful Expertise
 
-Once per [Turn](/rules#turn), a Expert may reroll any non-combat [skill check](#skill-checks) as an [Instant](/combat#instant-action) action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used.
+Once per [Turn](/rules#turn), an Expert may reroll any non-combat [skill check](#skill-checks) as an [Instant](/combat#instant-action) action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used.
 
 [Partial Experts](#partial-expert) **do not** receive this ability.
 
@@ -187,13 +187,13 @@ Combined with [Feats](/feats) meant to improve Shock attacks such as [Armsmaster
 
 ### Class Ability: Veteran’s Luck
 
-Once per [Turn](/rules#turn), as an [Instant Action](/combat#instant-action), the Warrior may convert a missed attack they have made into a hit. Alternately, they may convert a successful attack against them into a miss, also as an [Instant Action](/combat#instant-action). This ability is particularly lethal when used with the [Make a Snap Attack](/combat#make-a-snap-attack-instant) action against weaker monsters, ordinary human warriors, and spell casters.
+Once per [Turn](/rules#turn), as an [Instant Action](/combat#instant-action), the Warrior may convert a missed attack they have made into a hit. Alternatively, they may convert a successful attack against them into a miss, also as an [Instant Action](/combat#instant-action). This ability is particularly lethal when used with the [Make a Snap Attack](/combat#make-a-snap-attack-instant) action against weaker monsters, ordinary human warriors, and spell casters.
 
 [Partial Warriors](#partial-warrior) **do not** get this ability.
 
 ### Partial Warrior
 
-A Partial Warrior gains certain of the benefits of a full Warrior, including the improved [HP Progression](/rules#hp-progression) and a somewhat improved attack bonus. However, they do not have the [Veteran’s Luck](#class-ability-veterans-luck) special ability or the [Killing Blow](#class-ability-killing-blow) power, and must trust to their own talents to land blows and crush their enemies.
+A Partial Warrior gains certain of the benefits of a full Warrior, including the improved [HP Progression](/rules#hp-progression) and a somewhat improved attack bonus. However, they do not have the [Veteran’s Luck](#class-ability-veterans-luck) special ability or the [Killing Blow](#class-ability-killing-blow) power, and must trust their own talents to land blows and crush their enemies.
 
 ### Partial Mage/Partial Warrior
 
