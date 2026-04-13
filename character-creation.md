@@ -29,11 +29,11 @@ Adventuring is a profession, and all Characters have undergone extensive trainin
 
 1. **Choose a Class**. Pick either a full [Class](/classes) or combine two Partial Classes. [Warriors](/classes#warrior) are great at [combat](/combat), [Experts](/classes#expert) are great at [Skill Checks](/rules#skill-checks), and [Mages](/classes#mage) have specialized [powers](/arcane-traditions) or [spells](/spells).
 
-1. **Choose Feats**. Each [Class](/classes) gets a different starting amount of [Feats](/feats) at first level, detailed in the class' "Feats" column. Some [Feats](/feats), like [Alert](/feats#alert-c) grant a [Bonus Skill](/rules#bonus-skill). Raise that skill by one level to a maximum of level 1. If that skill is *already* level 1, make a free [Improvement](#improvement).
+1. **Choose Feats**. Each [Class](/classes) gets a different starting amount of [Feats](/feats) at first level, detailed in the class' "Feats" column. Some [Feats](/feats), like [Alert](/feats#alert-c), grant a [Bonus Skill](/rules#bonus-skill). Raise that skill by one level to a maximum of level 1. If that skill is *already* level 1, make a free [Improvement](#improvement).
 
 1. **Record Attribute Modifiers**. Each [Attribute](/rules#attributes) has a [Modifier](/rules#attribute-modifiers), ranging from -2 to +2 based on its score. This modifier is added to [Skill Checks](/rules#skill-checks), [Attack Rolls](/combat#attack-rolls), [Damage](/combat#damage) rolls, [Shock](/combat#shock) damage, and [Saving Throws](/rules#saving-throws).
 
-1. **Generate Maximum Hit Points**. Each [Class](/classes) gets different amount of [Hit Points](/rules#hit-points) (HP) at first level according to their [HP Progression](/rules#hp-progression). Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-c) Feat.
+1. **Generate Maximum Hit Points**. Each [Class](/classes) gets a different amount of [Hit Points](/rules#hit-points) (HP) at first level according to their [HP Progression](/rules#hp-progression). Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-c) Feat.
 
 1. **Record Attack Bonus**. Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll. A new character’s attack bonus is usually +0, though [Warriors](/classes#warrior) start with a +1 attack bonus.
 
@@ -46,7 +46,7 @@ Adventuring is a profession, and all Characters have undergone extensive trainin
 1. **Choose Starting Gear**. Gain `3d6 x 10` gold to spend on [gear](/equipment) (ignoring [Equipment Availability](/equipment#equipment-availability)), noting their [Encumbrance](/rules#encumbrance) and whether they are [Readied](/rules#readied) or [Stowed](/rules#stowed). You may carry [Readied](/rules#readied) equipment equal to half your Strength rounded down. You may carry [Stowed](/rules#stowed) equipment equal to your Strength. Other party members may be willing to Stow gear for you.
 
 1. **Record Weapon Statistics**. For each weapon (or special Art) you attack with, record its properties.
-  - Write it's name. *For example* `Sword:`.
+  - Write its name. *For example* `Sword:`.
   - Record the total attack bonus for that weapon. This is equal to your attack bonus plus your relevant [Stab](/rules#stab), [Shoot](/rules#shoot), or [Brawl](/rules#brawl) skill, and the relevant [Attribute Modifier](/rules#attribute-modifiers) for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you. *For example*, a [Warrior](/classes#warrior) (attack bonus of +1) with a STR of +1 and a [Stab](/rules#stab) of +1 has a total attack bonus of +3. They record `Sword: +3`.
   - Record the weapon's damage from the [Weapon Table](/equipment#weapons), adding your relevant [Attribute Modifier](/rules#attribute-modifiers) (like STR or DEX). Abilities like the Warrior's [Killing Blow](/classes#class-ability-killing-blow) and Feats like [Armsmaster](/feats#armsmaster-c) also increase damage. *For example*, A [Warrior](/classes#warrior) (+1 from [Killing Blow](/classes#class-ability-killing-blow)) with a STR of +1, the [Armsmaster](/feats#armsmaster-c) Feat, and a [Stab](/rules#stab) of +1 wielding a [sword](/equipment#sword) (1d8) records `Sword: +3 -> 1d8+3`.
   - Record the weapon's [Shock](/combat#shock) from the [Weapon Table](/equipment#weapons), adding the relevant [Attribute Modifier](/rules#attribute-modifiers). Abilities like the [Warrior's](/classes#warrior) [Killing Blow](/classes#class-ability-killing-blow) and Feats like [Armsmaster](/feats#armsmaster-c) also increase [Shock](/combat#shock). *For example*, A [Warrior](/classes#warrior) (+1 from [Killing Blow](/classes#class-ability-killing-blow)) with a STR of +1, the [Armsmaster](/feats#armsmaster-c) Feat, and a [Stab](/rules#stab) of +1 wielding a [sword](/equipment#sword) (2/AC 13) records `Sword: +3 -> 1d8+3, Sh 5/AC 13`.
@@ -176,7 +176,7 @@ If the Advancement Points aren't enough to raise the skill, they remain as credi
 
 We want to make sure we have enough DEX to not decrease our AC, and plan on wearing heavy armor. We're able melee combatants, so we want to have good Strength for bonuses to hit and damage.
 
-We take [Gifted Chirurgeon](/feats#gifted-chirurgeon) mostly for the improved odds at fixing [Fraility](/rules#frail). We take [Die Hard](/feats#die-hard-c) because we're frequently the only ones invested into healing others and if we die there's no one to help us. Die Hard makes sure that we live so long as the fight is won.
+We take [Gifted Chirurgeon](/feats#gifted-chirurgeon) mostly for the improved odds at fixing [Frailty](/rules#frail). We take [Die Hard](/feats#die-hard-c) because we're frequently the only ones invested into healing others and if we die there's no one to help us. Die Hard makes sure that we live so long as the fight is won.
 
 As we level up, we can look at picking up [Close Combatant](/feats#close-combatant-c) so that we can leave the fray to pick up wounded comrades.
 
@@ -230,7 +230,7 @@ We want to have decent [Shoot](/rules#shoot) because we're *definitely* not on t
 - Readied: Small Bow (3g, 1 enc), Quiver (10g, 1 enc), 2 Military Oil (4g, 2 enc)
 - Stowed: 100ft String (2s, 1 enc), Lodestone (10g), 6 Iron Spikes (1g, 1 enc), Hand Drill (10g, 1 enc), Fish Hook (1s), 50ft Rope (1g, 2 enc), Grappling Hook (25g, 1 enc), 10ft Pole (1c, 2 enc), Rations (2s, 1 enc), Mirror (5g, 1 enc), Hammer (1g, 1 enc).
 
-We want to be able to [Notice](/rules#notice) hidden stuff, and use [Sneak](/rules#sneak) to it's fullest (disabling traps, stealing things, picking locks). We pick up [Deadeye](/feats#deadeye-c) to make us effective in a fight, and it synergizes well with the additional Improvements we get as we level up.
+We want to be able to [Notice](/rules#notice) hidden stuff, and use [Sneak](/rules#sneak) to its fullest (disabling traps, stealing things, picking locks). We pick up [Deadeye](/feats#deadeye-c) to make us effective in a fight, and it synergizes well with the additional Improvements we get as we level up.
 
 Our kit is chosen to be able to interact with objects from a distance. Fish hooks and string to tug on stuff from afar, string+lodestone to reel in distant metal things (like keys), 10ft pole for prodding, mirrors to look in places you couldn't otherwise.
 
