@@ -40,7 +40,7 @@ Adventuring is a profession, and all Characters have undergone extensive trainin
 1. **Record Derived Statistics**. Record your [Physical](/rules#physical) (exhaustion, poison, etc), [Evasion](/rules#evasion) (explosions, traps, etc), and [Mental](/rules#mental) (mind control, tests of will, etc) [Saving Throws](/rules#saving-throws).
   - Your [Physical](/rules#physical) score is 15 minus the greater between your STR and CON.
   - Your [Evasion](/rules#evasion) score is 15 minus the greater between your INT and DEX.
-  - Your [Mental](/rules#mental) score is 15 minus the gerater between your INT and WIS.
+  - Your [Mental](/rules#mental) score is 15 minus the greater between your INT and WIS.
   - Record your maximum [System Strain](/rules#system-strain), which is equal to your Constitution.
 
 1. **Choose Starting Gear**. Gain `3d6 x 10` gold to spend on [gear](/equipment) (ignoring [Equipment Availability](/equipment#equipment-availability)), noting their [Encumbrance](/rules#encumbrance) and whether they are [Readied](/rules#readied) or [Stowed](/rules#stowed). You may carry [Readied](/rules#readied) equipment equal to half your Strength rounded down. You may carry [Stowed](/rules#stowed) equipment equal to your Strength. Other party members may be willing to Stow gear for you.
@@ -185,7 +185,7 @@ As we level up, we can look at picking up [Close Combatant](/feats#close-combata
 - Class: [Warrior](/classes#warrior)
 - Requirements: 14+ Dexterity, 10+ Strength, 8+ Constitution
 - Feats: [Close Combatant](/feats#close-combatant-c), [Whirlwind Assault](/feats#whirlwind-assault-c)
-- Improvements: Hit the above attribute breakpoints, then spend your remaining improvements on either getting 18 Dexterity, 14 or 18 Strength, and 14 or 18 Constition. Dexterity is more important than Strength, which is more important than Constitution, but if the next breakpoint is 1 or 2 points away, prioritize that. Our Feat combo gives us a guarenteed [Stab](/rules#stab) of 1, so we can spend any remaining improvements on filling in gaps for our group.
+- Improvements: Hit the above attribute breakpoints, then spend your remaining improvements on either getting 18 Dexterity, 14 or 18 Strength, and 14 or 18 Constitution. Dexterity is more important than Strength, which is more important than Constitution, but if the next breakpoint is 1 or 2 points away, prioritize that. Our Feat combo gives us a guaranteed [Stab](/rules#stab) of 1, so we can spend any remaining improvements on filling in gaps for our group.
 - Readied: Plate Armor (60g, 3 enc), Shield (10g, 1 enc), Mace (5g, 1 enc)
 - Stowed: 4 Torches (2s, 2 enc), 2 points of Military Oil (4g, 2 enc), Crowbar (1g, 1 enc), Pickaxe (4g, 2 enc), Ration (2s, 1 enc), Rope (1g, 2 enc)
 
