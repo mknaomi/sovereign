@@ -85,7 +85,7 @@ As such, [Partial Warriors](/classes#partial-warrior)/Partial Duelists use `1d6`
 
 Duelist [Effort](#effort) is equal to [Stab](/rules#stab) plus the highest of DEX and INT, to a minimum of 1. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Duelist advances in experience.
 
-The arts of the Duelist require agility and free motion. The Duelist cannot benefit from any art of this class while wearing Chain or Plate armor or while weilding a shield.
+The arts of the Duelist require agility and free motion. The Duelist cannot benefit from any art of this class while wearing Chain or Plate armor or while wielding a shield.
 
 Duelist arts do not apply to thrown weapons.
 
@@ -291,7 +291,7 @@ Necromancers are spellcasting Mages who deal with the energies of life and death
 
 Necromancers gain [Magic](/rules#magic) as a [Bonus Skill](/rules#bonus-skill).
 
-Necromancers can prepare and cast High Magic spells in addition to the spells specific to Necromatic Magic. Necromancers can’t cast spells or use arts while armored or holding a shield.
+Necromancers can prepare and cast High Magic spells in addition to the spells specific to Necromantic Magic. Necromancers can’t cast spells or use arts while armored or holding a shield.
 
 Each time a Necromancer advances a level, they pick a new High Magic spell or a Necromancer spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
 
