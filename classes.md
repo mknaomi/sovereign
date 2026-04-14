@@ -216,7 +216,7 @@ A Partial Mage/Partial Warrior rolls `1d6+2` for [HP Progression](/rules#hp-prog
 
 A Partial Expert/Partial Warrior rolls `1d6+2` for [HP Progression](/rules#hp-progression).
 
-| Level | Attack Bonus |                                 |
+| Level | Attack Bonus | Feats                           |
 | ----- | ------------ | ------------------------------- |
 | 1     | +1           | 1 Combat + 1 Non-Combat + 1 Any |
 | 2     | +2           | +1 Any                          |
