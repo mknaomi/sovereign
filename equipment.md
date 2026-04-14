@@ -5,7 +5,7 @@ title: Home
 
 # Equipment
 
-Each individual piece of equipment should be recorded on its own small piece of [card stock](https://www.amazon.com/Printworks-Cardstock-Certified-Projects-00540/dp/B07FX5LCXK), specifying it's encumbrance in the top right. This allows players to pass equipment around, leave it places, etc. Stowed items should be kept in a separate pile from Readied items.
+Each individual piece of equipment should be recorded on its own small piece of [card stock](https://www.amazon.com/Printworks-Cardstock-Certified-Projects-00540/dp/B07FX5LCXK), specifying its encumbrance in the top right. This allows players to pass equipment around, leave it at places, etc. Stowed items should be kept in a separate pile from Readied items.
 
 ## Coins and Money
 
@@ -95,7 +95,7 @@ Some weapons have additional unique traits, such as slow to reload, requiring tw
 - **SR**: Slow Reload. It takes a [Main Action](/combat#main-action) to reload this weapon. If the user has at least [Shoot](/rules#shoot):1, they can reload as a [Move Action](/combat#move-action) instead.
 - **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the attack roll.
 
-Military oil may be ignited and thrown with a DEX/[Shoot](/rules#shoot) attck, dealing `1d8` damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals `1d3` damage to that square and all adjacent squares.
+Military oil may be ignited and thrown with a DEX/[Shoot](/rules#shoot) attack, dealing `1d8` damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals `1d3` damage to that square and all adjacent squares.
 
 Weapons requiring ammunition require a [Quiver](#quiver). Don't bother tracking ammo if you have one. Be adults - you don't *actually* have infinite ammo. You cannot build bridges out of your infinite arrow or use them to fill pits.
 
