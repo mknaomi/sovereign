@@ -263,7 +263,7 @@ Other poisons have varied effects. A [giant centipede](https://oldschoolessentia
 
 Play out pursuit as a normal combat, tracking distance and position.
 
-If the PCs choose to flee, the monsters continue to pursue in a straight line as long as there is not more than 90 feet between the two. Turning a corner, passing through a door, or traversing stairs discourges pursuit; the monsters only follow on a 2-in-6.
+If the PCs choose to flee, the monsters continue to pursue in a straight line as long as there is not more than 90 feet between the two. Turning a corner, passing through a door, or traversing stairs discourages pursuit; the monsters only follow on a 2-in-6.
 
 Burning oil deters many (5-in-6) monsters from chasing.
 
@@ -371,9 +371,9 @@ Some hidden objects are harder to detect through simple actions. Classic example
 
 ### Traps
 
-Traps are often [Hidden](#hidden-things), though many have some sort of tell or clue to hint as its presence. Other traps are totally obvious, and figuring out how to disarm or bypass them is a puzzle.
+Traps are often [Hidden](#hidden-things), though many have some sort of tell or clue to hint at its presence. Other traps are totally obvious, and figuring out how to disarm or bypass them is a puzzle.
 
-All traps have some sort of trigger (what sets off the trap), and some sort of effect (like taking damage). By default, traps are unreliable - an action that satisfies its trigger only *does* 2/6th of the time, rolled for each triggering action. For example, a party of five PCs walking through a cooridor with an unseen tripwire rolls 2-in-6 five times (one for each PC).
+All traps have some sort of trigger (what sets off the trap), and some sort of effect (like taking damage). By default, traps are unreliable - an action that satisfies its trigger only *does* 2/6th of the time, rolled for each triggering action. For example, a party of five PCs walking through a corridor with an unseen tripwire rolls 2-in-6 five times (one for each PC).
 
 Players bypass or disarm traps through the [Core Gameplay Loop](#core-gameplay-loop), describing ways to not trigger the trap (like wedging a pressure plate) or ways to mitigate the effect of a trap (like clogging the spout of a gas trap).
 
