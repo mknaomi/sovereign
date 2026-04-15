@@ -7,7 +7,7 @@ title: Home
 
 [High Mages](/arcane-traditions#high-mage), [Necromancers](/arcane-traditions#necromancer), and [Elementalists](/arcane-traditions#elementalist) are capable of casting spells. NPC wizards may also have access to spellcasting, though NPCs seldom have classes.
 
-Spells ranked in power from level one, the relatively weakest, to level five, the most potent.
+Spells are ranked in power from level one, the relatively weakest, to level five, the most potent.
 
 The common corpus of ancient spells is known as [High Magic](#high-magic-spells). These spells are the common heritage of all spellcasting mages, and any spellcasting mage can learn and use them.
 
@@ -21,12 +21,12 @@ Mages automatically learn spells each time they level up based on their [Arcane 
 - [High Mages](/arcane-traditions#high-mage) learn two new spells automatically each time they level up.
 - [Necromancers](/arcane-traditions#necromancer) learn one new spell each time they level up.
 
-Adding additional spells to a [spellbook](/equipment#spellbook) (from a tutor or a scroll, or another mage's spellbook) requires a number of weeks based on the the spell's level and the mage's [Magic](/rules#magic) skill, with a minimum of 1 day.
+Adding additional spells to a [spellbook](/equipment#spellbook) (from a tutor or a scroll, or another mage's spellbook) requires a number of weeks based on the spell's level and the mage's [Magic](/rules#magic) skill, with a minimum of 1 day.
 
 - Add one week per spell level.
 - Subtract one week per level of [Magic](/rules#magic).
 
-For example, a mage with [Magic](/rules#magic):2 attemping to learn [Magic Bomb](/spells#magic-bomb) (a 3rd level spell) requires a week of study.
+For example, a mage with [Magic](/rules#magic):2 attempting to learn [Magic Bomb](/spells#magic-bomb) (a 3rd level spell) requires a week of study.
 
 A mage must be able to cast the spell in order to learn it.
 
@@ -46,7 +46,7 @@ Spells and Arts cannot be cast while wearing armor, restrictive clothing, or wie
 
 A mage can cast only so many spells each day, based on their level and [Arcane Tradition](/arcane-traditions) before needing [Comfortable Sleep](/rules#comfortable-sleep) to recover. The spell to be cast may be selected from any prepared by the mage. The same spell may be cast more than once.
 
-Partial Mages are more limited than full Mages. They are able to cast fewer spells each day and the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mage. The total spells they can prepare for the day are also fewer than that of a full Mage. When they cast the spells, however, any level-based effects use their full level, so a third-level [Partial](/classes#partial-mage) [Necromancers](/arcane-traditions#necromancer)’s [Arcane Spark](#arcane-spark) does `3d8` damage, just as a full [Necromancers](/arcane-traditions#necromancer) would.
+Partial Mages are more limited than full Mages. They are able to cast fewer spells each day and the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mage. The total spells they can prepare for the day are also fewer than that of a full Mage. When they cast the spells, however, any level-based effects use their full level, so a third-level [Partial](/classes#partial-mage) [Necromancer](/arcane-traditions#necromancer)’s [Arcane Spark](#arcane-spark) does `3d8` damage, just as a full [Necromancer](/arcane-traditions#necromancer) would.
 
 ### Creatures, Targets, and Visibility
 
@@ -80,7 +80,7 @@ The mage targets a visible, normal, non-magical animal or insect, obtaining temp
 The mage must focus to share the beast’s senses, requiring a [Main Action](/combat#main-action) and leaving the mage unable to act physically while so focused. The spell lasts until the mage releases the beast, it is dispelled, or it is cast again.
 
 #### Create Illusion
-The mage creates a illusion at a visible location within 100ft per caster level. The illusion can occupy a number of 10ft cubes equal to the caster’s level and can fool sight, hearing, smell, and even touch.
+The mage creates an illusion at a visible location within 100ft per caster level. The illusion can occupy a number of 10ft cubes equal to the caster’s level and can fool sight, hearing, smell, and even touch.
 
 If onlookers have no reason to believe the illusion is false, they will unconsciously conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by illusory flames. The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than 100ft from where it was conjured.
 
@@ -155,7 +155,7 @@ The caster sweeps away all unwanted magical effects and enchantments within a 20
 
 If the magical effect was cast by a creature with equal or fewer HD, the effect is negated automatically. Otherwise, make an opposed INT/[Magic](/rules#magic) skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
 
-This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppressing them. If successful, the effect is negated for `1d6` rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
+This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppress them. If successful, the effect is negated for `1d6` rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
 
 #### Elemental Shield
 The caster and up to three visible allies per caster level are shielded from hostile elemental energies, becoming immune to mundane extremes of heat, cold, natural acids, and electrical discharges. Against magical harm of this nature, they automatically take only half the damage they normally would, or none if they make a successful [Physical](/rules#physical) saving throw. This spell lasts for one hour per caster level.
@@ -191,7 +191,7 @@ This spell lasts until the caster performs some action other than focusing on th
 #### Shield of Daggers
 A visible willing creature within 30ft is surrounded by a whirl of razor-sharp energy shards.
 
-Anyone who attempt to touch the target or make a melee attack against them must make an [Evasion](/rules#evasion) saving throw or suffer `1d6` damage plus the caster’s level before resolving their attack. The field of blades is indiscriminate and will affect even allies trying to touch the target.
+Anyone who attempts to touch the target or make a melee attack against them must make an [Evasion](/rules#evasion) saving throw or suffer `1d6` damage plus the caster’s level before resolving their attack. The field of blades is indiscriminate and will affect even allies trying to touch the target.
 
 The blades remain as long as the target gives up a [Move Action](/combat#move-action) each [Round](/rules#round) in order to avoid disrupting them from within, up to a maximum of one [Turn](/rules#turn).
 
