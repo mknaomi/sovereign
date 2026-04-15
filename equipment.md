@@ -172,7 +172,7 @@ Adventuring equipment tends to be useful [within the fiction](https://www.merria
 - Acid for throwing or pouring into locks.
 - Fishing rod (fishhook + string + pole) for fishing (hah) or trying to fetch things out of reach.
 - Lodestones for grabbing distant keys, especially tied to fishing rods.
-- Pickaxes, hammers, axes, crowbars, shovels, etc for dismanting.
+- Pickaxes, hammers, axes, crowbars, shovels, etc for dismantling.
 - Glass vials for storing strange liquids or bugs.
 - Mirrors for peering around corners.
 - Flour for causing explosions and coating invisible targets.
@@ -250,7 +250,7 @@ If the Spell in a scroll has an effect dependent on caster level (like [Arcane S
 
 ### Buying and Selling Magic Items
 
-Magic Items can be sold, though they are subject [Market Availbility](#equipment-availability). In order to estimate their price, decide which [spell](/spells) effect the item is most similar to, and note the spell level. If no such spell exists, try to guage which spell level it would be.
+Magic Items can be sold, though they are subject to [Market Availability](#equipment-availability). In order to estimate their price, decide which [spell](/spells) effect the item is most similar to, and note the spell level. If no such spell exists, try to gauge which spell level it would be.
 
 Then, consult the following chart to determine market value:
 
@@ -316,6 +316,6 @@ Each category corresponds to one of the [OSE Generators](https://oldschoolessent
 
 ### Sentient Weapons
 
-Some weapons are intelligent, and a subset of those are able to communicate. Weielders who offend their sentient weapons make a INT/[Stab](/rules#stab) or [Shoot](/rules#shoot) check to force its obedience for the day. If the check is failed, the weapon is treated as totally nonmagical for the rest of the day.
+Some weapons are intelligent, and a subset of those are able to communicate. Weielders who offend their sentient weapons make an INT/[Stab](/rules#stab) or [Shoot](/rules#shoot) check to force its obedience for the day. If the check is failed, the weapon is treated as totally nonmagical for the rest of the day.
 
 Weapons able to speak aloud may speak at (in)opportune times, at GM discretion.
